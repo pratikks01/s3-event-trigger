@@ -57,8 +57,8 @@ The project automates the notification process for users whenever they upload so
 
 ## Screenshots 📷
 
-![Screenshot 1](relative-path-to-image/screenshot1.png)
-![Screenshot 2](relative-path-to-image/screenshot2.png)
+![Screenshot 1](Screenshots/s1.png)
+![Screenshot 2](Screenshots/s2.png)
 
 ## Watch the project in action on YouTube 🎥
 
